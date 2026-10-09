@@ -1,3 +1,8 @@
+import os 
+os.system("cls")
+
+
+
 numero1=float (input('digite um numero'))
 numero2=float (input('digite outro numero'))
 usar= input ('digite um dos caracteres para calculo(+,-,* ou /)')
